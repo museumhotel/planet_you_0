@@ -2,7 +2,7 @@
 ## 2021
 ### p5.js, glsl
 
-The saying *"No man is an is an island"* acknowledges the inevitable help we receive to achieve the things we want. Thanks to all those that provided resources from the libraries I used to the help in the fxhash discord. Thank you! 🙌🏾 ❤️‍🔥
+The saying *"No man is an island"* acknowledges the inevitable help we receive to achieve the things we want. Thanks to all those that provided resources from the libraries I used to the help in the fxhash discord. Thank you! 🙌🏾 ❤️‍🔥
 
 The first component was the fading grid which is a very simple 2D array filled in with a random colour.
 
